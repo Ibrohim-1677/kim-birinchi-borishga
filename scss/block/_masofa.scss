@@ -1,0 +1,27 @@
+.main_item{
+    text-align: center;
+}
+.form__input{
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 5px 10px;
+}
+.form__klic{
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.main__list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+}
+.list__km{
+    width: 210px;
+    padding: 40px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.list__min{
+    text-align: center;
+}
